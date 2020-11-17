@@ -6,6 +6,8 @@ A quick dirty script to check availability of a product on bestbuy.com
 
     python3 checkAvailability.py > result.log &
 
+_Special thanks to [Be A Better Dev](https://www.youtube.com/watch?v=6ixBJZ2vnYk&t=1061s) for the video tutorial_
+
 #### Nvidia RTX
 
 #### Gpu
